@@ -4,7 +4,7 @@
   "slug": "snmpd-sensor-server",
   "description": "SNMP v2c server for monitoring sensors and HA host",
   "url": "https://github.com/PecceG2/Home-Assistant-SNMP-Sensor-Server",
-  "arch": ["armhf", "armv7", "amd64", "i386"],
+  "arch": ["aarch64", "armhf", "armv7", "amd64", "i386"],
   "startup": "services",
   "boot": "auto",
   "init": false,
